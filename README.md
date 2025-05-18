@@ -1,25 +1,24 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Pavindu Sandeepa</h1>
-<h3 align="center">A passionate IT Student | Graphic Designer from Sri Lanka</h3>
+<h3 align="center">A passionate IT Student | Graphic Designer | UI UX Designer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pavindusandeepa123&label=Profile%20views&color=0e75b6&style=flat" alt="pavindusandeepa123" /> </p>
 
 ---
-- 🔭 I’m currently working on **Hostel Management System**
 
-- 🌱 I’m currently learning **Advanced React.js, and Node.js, MongoDB, JavaScript**
+- 🎨 I’m currently sharpening my skills in **UI/UX Design, Mobile App Interfaces, Branding, and Motion Graphics**
 
-- 👯 I’m looking to collaborate on **Creative Design Projects**
+- 🤝 I’m looking to collaborate on **Creative Design & User-Centered Projects**
 
-- 👨‍💻 All of my projects are available at [My Linkedin Profile]
+- 🖼️ Explore my design works on **https://www.linkedin.com/in/pavindu-sandeepa-6693352a4/**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Graphic Design**
+- 💬 Ask me about **Photoshop, Illustrator, Figma, UI/UX Design, Prototyping, Branding**
 
-- 📫 How to reach me **sandeepapavindu882@gmail.com**
+- 📫 Reach me at **sandeepapavindu882@gmail.com**
 
-- 📄 Know about my experiences [My Linkedin Profile]
+- 📄 Learn more about my creative journey on **https://www.linkedin.com/in/pavindu-sandeepa-6693352a4/**
 
-- ⚡ Fun fact **I can create stunning visuals and code dynamic web applications!**
+- ⚡ Fun fact **I can turn your ideas into stunning visuals and intuitive digital experiences!**
 
 ---
 
